@@ -1,5 +1,5 @@
 def main():
-	skills = ["counting", "reading", "drawing", "jumping", "napping", "solving deferential equations"]
+	skills = ["Python", "C++", "JavaScript", "Meeting", "Leeting", "Eating"]
 	cv = {}
 	cv['name'] = input("What's your name?  ")
 	cv['age'] = input("What's your age?  ")
